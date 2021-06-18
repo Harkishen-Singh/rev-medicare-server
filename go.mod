@@ -1,4 +1,4 @@
-module github.com/muskankhedia/Revolutionize_Medicare/service
+module github.com/Harkishen-Singh/rev-medicare-server
 
 go 1.16
 
