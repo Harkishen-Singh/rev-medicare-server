@@ -13,7 +13,7 @@ import (
 	"strings"
 
 	"github.com/gorilla/mux"
-	"github.com/Harkishen-Singh/rev-medicare-server/root/controllers"
+	"github.com/muskankhedia/Revolutionize_Medicare/service/controllers"
 )
 
 func init() {
